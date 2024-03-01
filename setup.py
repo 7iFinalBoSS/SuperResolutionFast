@@ -9,7 +9,7 @@ setup(
     version="1.0",
     description="",
     author="Devanshu",
-    url='https://github.com/ai-forever/Real-ESRGAN',
+    url='https://github.com/7iFinalBoSS/SuperResolutionFast',
     packages=find_packages(include=['SuperResolution']),
     install_requires=[
         str(r)
